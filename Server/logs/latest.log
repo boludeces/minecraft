@@ -1,0 +1,60 @@
+[10:12:26] [Server thread/INFO]: Loading properties
+[10:12:26] [Server thread/INFO]: Default game type: SURVIVAL
+[10:12:26] [Server thread/INFO]: Generating keypair
+[10:12:27] [Server thread/INFO]: Starting Minecraft server on 26.121.94.7:25565
+[10:12:27] [Server thread/INFO]: Using default channel type
+[10:12:32] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-03b145b (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[10:12:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:12:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:12:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:12:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:12:32] [Server thread/INFO]: Preparing level "world"
+[10:12:32] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[10:12:33] [Server thread/INFO]: Loaded 6 recipes
+[10:12:35] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[10:12:38] [Server thread/INFO]: Preparing spawn area: 0%
+[10:12:38] [Server thread/INFO]: Preparing spawn area: 0%
+[10:12:38] [Server thread/INFO]: Preparing spawn area: 0%
+[10:12:38] [Server thread/INFO]: Preparing spawn area: 0%
+[10:12:38] [Server thread/INFO]: Preparing spawn area: 0%
+[10:12:38] [Server thread/INFO]: Preparing spawn area: 0%
+[10:12:38] [Server thread/INFO]: Preparing spawn area: 1%
+[10:12:42] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:12:42] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:12:42] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:12:42] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:12:42] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:12:42] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:12:42] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:12:42] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:12:42] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[10:12:43] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[10:12:43] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[10:12:45] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[10:12:45] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[10:12:45] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:12:45] [Server-Worker-5/INFO]: Preparing spawn area: 87%
+[10:12:46] [Server-Worker-2/INFO]: Preparing spawn area: 92%
+[10:12:46] [Server-Worker-1/INFO]: Preparing spawn area: 96%
+[10:12:47] [Server thread/INFO]: Time elapsed: 11812 ms
+[10:12:47] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[10:12:48] [Server thread/INFO]: Preparing spawn area: 0%
+[10:12:48] [Server thread/INFO]: Preparing spawn area: 0%
+[10:12:48] [Server thread/INFO]: Preparing spawn area: 0%
+[10:12:48] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[10:12:49] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[10:12:49] [Server-Worker-2/INFO]: Preparing spawn area: 84%
+[10:12:50] [Server-Worker-4/INFO]: Preparing spawn area: 91%
+[10:12:50] [Server thread/INFO]: Time elapsed: 3402 ms
+[10:12:50] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[10:12:51] [Server thread/INFO]: Preparing spawn area: 0%
+[10:12:51] [Server thread/INFO]: Preparing spawn area: 0%
+[10:12:51] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[10:12:52] [Server-Worker-3/INFO]: Preparing spawn area: 94%
+[10:12:52] [Server thread/INFO]: Time elapsed: 1563 ms
+[10:12:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:12:52] [Server thread/INFO]: Done (19.951s)! For help, type "help"
+[10:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6169ms or 123 ticks behind
+[10:13:57] [Server thread/INFO]: tomy[/26.121.94.7:51052] logged in with entity id 169 at ([world]97.5, 68.0, 150.5)
+[10:14:04] [Server thread/INFO]: tomy lost connection: Disconnected
+[10:14:04] [Server thread/INFO]: tomy left the game
